@@ -78,7 +78,7 @@
 
 	<id>central</id>
         <name>Michael-artifactory-primary-0-snapshots</name>
-        <url>http://52.3.232.77:8081/repository/Java-Repo-snap/</url>
+        <url></url>
     </repository>
 </distributionManagement> 
 
