@@ -38,13 +38,13 @@
           </snapshots>
           <id>central</id>
           <name>libs-release</name>
-          <url>https://edshopdpt8.jfrog.io/artifactory/libs-release</url>
+          <url>http://52.3.232.77:8081/repository/Java-repo-Release/</url>
         </pluginRepository>
         <pluginRepository>
           <snapshots />
           <id>snapshots</id>
           <name>libs-snapshot</name>
-          <url>https://edshopdpt8.jfrog.io/artifactory/libs-snapshot</url>
+          <url>http://52.3.232.77:8081/repository/Java-Repo-snap/</url>
         </pluginRepository>
       </pluginRepositories>
       <id>artifactory</id>
