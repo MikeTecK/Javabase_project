@@ -74,7 +74,7 @@
     <repository>
         <id>central</id>
         <name>Micheal-artifactory-primary-0-releases</name>
-        <url>http://52.3.232.77:8081/repository/Java-repo-Release/</url>
+        <url>http://52.3.232.77:8081/repository/Java-mike-releases/</url>
 	    
     </repository>
 </distributionManagement> 
